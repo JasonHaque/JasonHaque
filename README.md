@@ -27,7 +27,7 @@ I love to develop iOS applications using swift . Currently pursuing Computer Sci
     "frontend": ["UIkit","SwiftUI"],
     
   },
-  "database":  "SQLite"],
+  "database":  ["SQLite"],
   "misc": ["Firebase"],
   "tools": ["XCode","VS Code","Android Studio"],
 }
