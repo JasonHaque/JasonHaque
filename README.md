@@ -1,3 +1,5 @@
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=JasonHaque&&show_icons=true&theme=tokyonight&count_private=true" alt="Jason's Github Stats"/>](https://github.com/JasonHaque)
+
 # Hello, I am Sanviraj Zahin Haque but you can call me Jason! Nice to meet you
 
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=222244&labelColor=000000&logo=twitter&logoColor=f5f7fe&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DHaqueJason&suffix=%20Followers)](https://twitter.com/HaqueJason)
