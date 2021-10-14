@@ -34,5 +34,9 @@ I love to develop iOS applications using swift . Currently pursuing Computer Sci
   "tools": ["XCode","VS Code","Android Studio"],
 }
 ```
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JasonHaque&hide_border=false&theme=react&background=0d1117" width="55%" />
+   
+   <img src="https://activity-graph.herokuapp.com/graph?username=JasonHaque&theme=react-dark" width="100%"/>
 
 #### Happy coding!
