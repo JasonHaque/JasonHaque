@@ -13,23 +13,23 @@ I love to develop iOS applications using swift . Currently pursuing Computer Sci
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> Swift
-- 🌱 <b>Getting better at:</b> iOS dev , SwiftUI
-- 🤔 <b>Exploring:</b> Application design patterns
-- ⚗️ <b>Experimenting on:</b> Improving the efficiency of my code
+- 🔭 <b>Currently working on:</b> Django , Django Rest Framework ,Swift
+- 🌱 <b>Getting better at:</b> Django Rest Framework  , SwiftUI
+- 🤔 <b>Exploring:</b> Backend & mobile development
+- ⚗️ <b>Experimenting on:</b> reusable and easy to read backend code
 - 💬 <b>Ask me about:</b> Anything tech related
 
 ### My Stacks
 
 ```json
 {
-  "languages": ["Swift", "Python", "Kotlin", "Java"],
+  "languages": ["Swift", "Python", "Javascript"],
   "frameworks/libraries": {
-    "backend": ["Swift"],
-    "frontend": ["UIkit","SwiftUI"],
+    "backend": ["Django","Django Rest Framework"],
+    "mobile": ["UIkit","SwiftUI"],
     
   },
-  "database":  ["SQLite"],
+  "database":  ["SQLite","MySQL"],
   "misc": ["Firebase"],
   "tools": ["XCode","VS Code","Android Studio"],
 }
