@@ -6,16 +6,16 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/JasonHaque/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:zahinjason220434@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
-> Software engineer (working part time) <br/>
+> Software engineer , Tech Enthusiast <br/>
 > Undergraduate student @ University of Dhaka <br/>
-> OpenSource enthusiast, iOS development enthusiast
-I love to develop iOS applications using swift . Currently pursuing Computer Science and Engineering degree at University of Dhaka. I'm an ENTP-A. I love talking about things i am passionate about which is mostly anything interesting
+> OpenSource enthusiast, backend development and iOS development enthusiast
+I love to code robust and high functioning backend systems using python Django & node js . Currently pursuing Computer Science and Engineering degree at University of Dhaka. I'm an ENTP-A. I love talking about things i am passionate about which is mostly anything interesting
 
 ### Things you should know
 
 - 🔭 <b>Currently working on:</b> Django , Django Rest Framework ,Swift
 - 🌱 <b>Getting better at:</b> Django Rest Framework  , SwiftUI
-- 🤔 <b>Exploring:</b> Backend & mobile development
+- 🤔 <b>Exploring:</b> System Design , Backend & mobile development
 - ⚗️ <b>Experimenting on:</b> reusable and easy to read backend code
 - 💬 <b>Ask me about:</b> Anything tech related
 
