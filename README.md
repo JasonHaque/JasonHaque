@@ -19,6 +19,38 @@ I love to code robust and high functioning backend systems using python Django &
 - ⚗️ <b>Experimenting on:</b> reusable and easy to read backend code
 - 💬 <b>Ask me about:</b> Anything tech related
 
+---
+<h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
+
+- :dagger: &nbsp;Languages:&nbsp;
+  ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
+  ![](https://img.shields.io/badge/-Swift-0A1A2F?style=flat&logo=Swift)
+  ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
+  ![](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java)
+  
+- :shield: &nbsp;Data:&nbsp;
+  ![](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql)
+  ![](https://img.shields.io/badge/-PostgreSQL-0A1A2F?style=flat&logo=postgresql)
+  ![](https://img.shields.io/badge/-Oracle-0A1A2F?style=flat&logo=oracle)
+ 
+- :crossed_swords: &nbsp;Libraries/Frameworks:&nbsp;
+  ![](https://img.shields.io/badge/-Node.JS-0A1A2F?style=flat&logo=node.js)
+  ![](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
+  ![](https://img.shields.io/badge/-FastAPI-0A1A2F?style=flat&logo=FastAPI)
+  ![](https://img.shields.io/badge/-SwiftUI-0A1A2F?style=flat&logo=swift)
+
+- :anchor: &nbsp;Build Tools/Platforms: &nbsp;
+  ![](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=Firebase)
+  ![](https://img.shields.io/badge/-Gradle-0A1A2F?style=flat&logo=Gradle)
+  
+- :bow_and_arrow: &nbsp;Miscellaneous:&nbsp;
+  ![](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![](https://img.shields.io/badge/-Android-0A1A2F?style=flat&logo=Android)
+  ![](https://img.shields.io/badge/-Arduino-0A1A2F?style=flat&logo=Arduino)
+  ![](https://img.shields.io/badge/-LaTeX-0A1A2F?style=flat&logo=LaTeX)
+
+---
+
 ### My Stacks
 
 ```json
