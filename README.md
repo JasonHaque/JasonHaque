@@ -26,17 +26,20 @@ I love to code robust and high functioning backend systems using python Django &
   ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
   ![](https://img.shields.io/badge/-Swift-0A1A2F?style=flat&logo=Swift)
   ![](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
-  ![](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java)
+  ![](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript)
   
 - :shield: &nbsp;Data:&nbsp;
   ![](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql)
   ![](https://img.shields.io/badge/-PostgreSQL-0A1A2F?style=flat&logo=postgresql)
+  ![](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
   ![](https://img.shields.io/badge/-Oracle-0A1A2F?style=flat&logo=oracle)
  
 - :crossed_swords: &nbsp;Libraries/Frameworks:&nbsp;
   ![](https://img.shields.io/badge/-Node.JS-0A1A2F?style=flat&logo=node.js)
   ![](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
   ![](https://img.shields.io/badge/-FastAPI-0A1A2F?style=flat&logo=FastAPI)
+  ![](https://img.shields.io/badge/-Express.JS-0A1A2F?style=flat&logo=express)
+  ![](https://img.shields.io/badge/-Nest.js-0A1A2F?style=flat&logo=nest)
   ![](https://img.shields.io/badge/-SwiftUI-0A1A2F?style=flat&logo=swift)
 
 - :anchor: &nbsp;Build Tools/Platforms: &nbsp;
@@ -51,21 +54,8 @@ I love to code robust and high functioning backend systems using python Django &
 
 ---
 
-### My Stacks
 
-```json
-{
-  "languages": ["Swift", "Python", "Javascript"],
-  "frameworks/libraries": {
-    "backend": ["Django","Django Rest Framework"],
-    "mobile": ["UIkit","SwiftUI"],
-    
-  },
-  "database":  ["SQLite","MySQL"],
-  "misc": ["Firebase"],
-  "tools": ["XCode","VS Code","Android Studio"],
-}
-```
+
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JasonHaque&hide_border=false&theme=react&background=0d1117" width="55%" />
    
