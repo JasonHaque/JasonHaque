@@ -61,5 +61,7 @@ I love to code robust and high functioning backend systems using python Django &
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JasonHaque&hide_border=false&theme=react&background=0d1117" width="55%" />
    
    <img src="https://activity-graph.herokuapp.com/graph?username=JasonHaque&theme=react-dark" width="100%"/>
+  
+  <a href="https://app.daily.dev/Jason1163"><img src="https://api.daily.dev/devcards/b17b128274d14b58b91061ce2660d127.png?r=8zz" width="400" alt="Sanviraj Zahin Haque's Dev Card"/></a>
 
 #### Happy coding!
