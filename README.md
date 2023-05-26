@@ -8,17 +8,17 @@
 ![Profile views](https://gpvc.arturio.dev/JasonHaque)
 
 > Software engineer , Tech Enthusiast <br/>
-> Backend Development Enthusiast, Project Management Enthusiast <br/>
-> OpenSource enthusiast, backend development, iOS development & Project Management enthusiast
-I love to code robust and high functioning backend systems using python Django & node js . Currently pursuing Computer Science and Engineering degree at University of Dhaka. I'm an ENTP-A. I love talking about things i am passionate about which is mostly anything interesting
+> Web Engineering Enthusiast, Project Management Enthusiast <br/>
+> Web development, iOS development & Project Management enthusiast
+I love to code robust and high functioning web-apps using Typescript, Python. Pursued Computer Science and Engineering degree(incomplete) at University of Dhaka. I'm an ENTP-A. I love talking about things i am passionate about which is mostly anything interesting
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> Django , Django Rest Framework ,Swift
-- 🌱 <b>Getting better at:</b> Django Rest Framework  , SwiftUI
-- 🤔 <b>Exploring:</b> System Design , Backend & Project Management
-- ⚗️ <b>Experimenting on:</b> reusable and easy to read backend code
-- 💬 <b>Ask me about:</b> Anything tech related
+- 🔭 <b>Currently working on:</b> Express.Js, NestJs, Django
+- 🌱 <b>Getting better at:</b> Reactjs, Nextjs
+- 🤔 <b>Exploring:</b> System Design, Team Leadership & Project Management
+- ⚗️ <b>Experimenting on:</b> how to solve stuff fast while breaking the minimum amount of things
+- 💬 <b>Ask me about:</b> Tech, Manga, Coffee, Gadgets
 
 ---
 <h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
