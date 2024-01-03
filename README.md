@@ -9,14 +9,15 @@
 
 
 > Software engineer, Tech Enthusiast <br/>
-> Web Engineering Enthusiast, Project Management Enthusiast <br/>
+> Web Engineering Enthusiast, Helping Startups build MVPs and more <br/>
 > Web development, iOS development & Project Management enthusiast
-I love to code robust and high-functioning web apps using Typescript, Python, and cool mobile apps using Swift. Pursued Computer Science and Engineering degree(incomplete) at the University of Dhaka. I'm an ENTP-A. I love talking about things I am passionate about which is mostly anything interesting
+
+I love to code robust and high-functioning web apps using Typescript, Python, and cool mobile apps using Swift. Pursued Computer Science and Engineering degree(incomplete) at the University of Dhaka. I'm an ENTP-A. I love talking about things I am passionate about which is mostly anything interesting.
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> Express.Js, NestJs, Fastify, Django
-- 🌱 <b>Getting better at:</b> Reactjs, Nextjs
+- 🔭 <b>Currently working on:</b> Express.Js, NestJs, Fastify, Nextjs
+- 🌱 <b>Getting better at:</b> Social Media, Nextjs
 - 🤔 <b>Exploring:</b> System Design, Team Leadership & Project Management
 - ⚗️ <b>Experimenting on:</b> how to solve stuff fast while breaking the minimum amount of things
 - 💬 <b>Ask me about:</b> Tech, Manga, Coffee, Gadgets
