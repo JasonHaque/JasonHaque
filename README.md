@@ -12,7 +12,9 @@
 > Web Engineering Enthusiast, Helping Startups build MVPs and more <br/>
 > Web development, iOS development & Project Management enthusiast
 
-I love to code robust and high-functioning web apps using Typescript, Python, and cool mobile apps using Swift. Pursued Computer Science and Engineering degree(incomplete) at the University of Dhaka. I'm an ENTP-A. I love talking about things I am passionate about which is mostly anything interesting.
+Software | Startups | Products | Businesses 
+
+These are the terms that sum me up. Really passionate about building products and startups. Like experimenting and creating software of value
 
 ### Things you should know
 
