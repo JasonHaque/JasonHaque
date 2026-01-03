@@ -1,4 +1,4 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=JasonHaque&&show_icons=true&theme=tokyonight&count_private=true" alt="Jason's Github Stats"/>](https://github.com/JasonHaque)
+
 
 ## Hehe, This is Jason!
 
